@@ -31,7 +31,6 @@ export default function Results({input}){
                         <td>{formatter.format(totalAmountInvested)}</td>
                     </tr>
                 )
-
             })}
             </tbody>
         </table>
